@@ -9,7 +9,7 @@
 #include <string.h>
 #include <stdbool.h>
 
-#define ORDER 5
+#define ORDER 3
 #define MAX_KEYS (ORDER - 1)
 #define DATA_FILE "btree.dat"
 
